@@ -11,7 +11,7 @@ As we expected (and the data confirms), it gets hotter... The dataset created is
 
 - Temperature vs. Latitude: this plot shows that the closer the latitude is to 0°, the higer is the temprature.
 - Humidity vs. Latitude: it is not a clear correlation but near latitude -20° and latitude 20° the humidity its a little less than the rest of latitudes.
-- Cloudiness vs. Latitude: For this day in the year we can see that between latitude -20° and 0° there is almost 100% of cloudiness and 0% between 0° and 20°.
+- Cloudiness vs. Latitude: for this day in the year we can see that between latitude -20° and 0° there is almost 100% of cloudiness and 0% between 0° and 20°.
 - Wind Speed vs Latitude: there is not visible correlation in this day (more data is required in another seasons.)
 - Northen and Southern Hemispheres has very similar behaviors.
 
@@ -21,4 +21,4 @@ As we expected (and the data confirms), it gets hotter... The dataset created is
 
 - Create your ideal weather and look up for cities that satisfied this requirement.
 - Call an API for Google Places API to show hotels in these cities.
-- Create a heatmap that display the humidity for every hotel and a pin containing the hotel name, city and country located within 5000 meters of the ideal weather cities from above.
+- Create a heatmap that display the humidity for every hotel and a pin containing the hotel name, city and country located within 5000 meters of the ideal weather cities.
