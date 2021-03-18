@@ -13,7 +13,7 @@ As we expected (and the data confirms), it gets hotter... The dataset created is
 - Humidity vs. Latitude: it is not a clear correlation but near latitude -20° and latitude 20° the humidity its a little less than the rest of latitudes.
 - Cloudiness vs. Latitude: For this day in the year we can see that between latitude -20° and 0° there is almost 100% of cloudiness and 0% between 0° and 20°.
 - Wind Speed vs Latitude: there is not visible correlation in this day (more data is required in another seasons.)
-- Northen and Southern Hemispheres has very similar behaviors
+- Northen and Southern Hemispheres has very similar behaviors.
 
 **Part II - VacationPy**
 
